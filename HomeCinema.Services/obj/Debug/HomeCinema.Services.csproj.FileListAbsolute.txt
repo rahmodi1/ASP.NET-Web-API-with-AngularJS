@@ -1,0 +1,12 @@
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\bin\Debug\EntityFramework.dll
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\bin\Debug\MockData.dll
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\bin\Debug\EntityFramework.xml
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb

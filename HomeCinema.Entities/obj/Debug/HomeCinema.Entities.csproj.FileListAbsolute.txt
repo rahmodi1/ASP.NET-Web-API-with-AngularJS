@@ -1,0 +1,5 @@
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\mrahul\Documents\GitHub\ASP.NET-Web-API-with-AngularJS\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
